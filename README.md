@@ -1,2 +1,4 @@
 # helo-world
-my first git
+Have a great Life
+Listen a good music
+Be positive
